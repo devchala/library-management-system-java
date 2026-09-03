@@ -22,7 +22,7 @@ A Java-based Library Management System developed using Object-Oriented Programmi
 ## How to Run
 1. Open the project in IntelliJ IDEA, Eclipse, or another Java IDE.
 2. Compile the source code.
-3. Run `LibraryManagementSystem1.java`.
+3. Run `LibraryManagementSystem.java`.
 4. Enter your name and choose a book to borrow.
 
 ## Author
