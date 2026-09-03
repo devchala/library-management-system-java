@@ -27,4 +27,4 @@ A Java-based Library Management System developed using Object-Oriented Programmi
 
 ## Author
 Chala Wodajo
-Wallaga University, Computer Science Student
+Wollaga University, Computer Science Student
